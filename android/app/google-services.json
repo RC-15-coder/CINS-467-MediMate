@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1091331506612",
+    "project_id": "medimate-ccfb6",
+    "storage_bucket": "medimate-ccfb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091331506612:android:37fa5ca191183fd1b5b2e1",
+        "android_client_info": {
+          "package_name": "com.example.medimate_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA6rtaCj6ooVNrlT7f1_IMu_v9aRV5jtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
